@@ -1,0 +1,10 @@
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\bin\Debug\CsvHelperSample.exe.config
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\bin\Debug\CsvHelperSample.exe
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\bin\Debug\CsvHelperSample.pdb
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\bin\Debug\CsvHelper.dll
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\bin\Debug\CsvHelper.xml
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\obj\Debug\CsvHelperSample.csprojResolveAssemblyReference.cache
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\obj\Debug\CsvHelperSample.Properties.Resources.resources
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\obj\Debug\CsvHelperSample.csproj.GenerateResource.Cache
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\obj\Debug\CsvHelperSample.exe
+C:\Sample Demo\AppWithoutUIDemo\CsvHelperSample\obj\Debug\CsvHelperSample.pdb

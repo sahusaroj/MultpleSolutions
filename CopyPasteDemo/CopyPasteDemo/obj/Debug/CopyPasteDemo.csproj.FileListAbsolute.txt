@@ -1,0 +1,11 @@
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\bin\Debug\CopyPasteDemo.exe.config
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\bin\Debug\CopyPasteDemo.exe
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\bin\Debug\CopyPasteDemo.pdb
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\bin\Debug\DotNetLibrariesC.dll
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\obj\Debug\CopyPasteDemo.csprojResolveAssemblyReference.cache
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\obj\Debug\CopyPasteDemo.frmContractList.resources
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\obj\Debug\CopyPasteDemo.Form2.resources
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\obj\Debug\CopyPasteDemo.Properties.Resources.resources
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\obj\Debug\CopyPasteDemo.csproj.GenerateResource.Cache
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\obj\Debug\CopyPasteDemo.exe
+C:\Sample Demo\CopyPasteDemo\CopyPasteDemo\obj\Debug\CopyPasteDemo.pdb

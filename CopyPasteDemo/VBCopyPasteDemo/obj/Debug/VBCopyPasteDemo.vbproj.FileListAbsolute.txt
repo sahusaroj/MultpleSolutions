@@ -1,0 +1,11 @@
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\bin\Debug\VBCopyPasteDemo.exe.config
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\bin\Debug\VBCopyPasteDemo.exe
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\bin\Debug\VBCopyPasteDemo.pdb
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\bin\Debug\VBCopyPasteDemo.xml
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.vbprojResolveAssemblyReference.cache
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.frmContract.resources
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.Resources.resources
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.vbproj.GenerateResource.Cache
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.exe
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.xml
+C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.pdb
