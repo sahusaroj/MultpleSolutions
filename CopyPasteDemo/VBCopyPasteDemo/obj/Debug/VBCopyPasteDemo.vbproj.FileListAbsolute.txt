@@ -9,3 +9,7 @@ C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.vbproj.Ge
 C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.exe
 C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.xml
 C:\Sample Demo\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.pdb
+C:\Working\GitRepo\MultpleSolutions\CopyPasteDemo\VBCopyPasteDemo\bin\Debug\VBCopyPasteDemo.exe.config
+C:\Working\GitRepo\MultpleSolutions\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.exe
+C:\Working\GitRepo\MultpleSolutions\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.xml
+C:\Working\GitRepo\MultpleSolutions\CopyPasteDemo\VBCopyPasteDemo\obj\Debug\VBCopyPasteDemo.pdb
