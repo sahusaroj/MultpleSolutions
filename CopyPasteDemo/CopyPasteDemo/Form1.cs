@@ -39,6 +39,7 @@ namespace CopyPasteDemo
             //lstContractList.
 
             // Sort the items in the list in ascending order.
+            //Chumbu
             lstContractList.Sorting = SortOrder.Ascending;
 
             // Attach Subitems to the ListView
